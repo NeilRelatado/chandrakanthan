@@ -1,0 +1,16 @@
+.top-header{
+  background-image: url("images/church.PNG");
+}
+
+.topHeaderText{
+  border-radius: 15px 50px 30px 5px;
+  background-color: #ffffff;
+  background: rgba(0, 0, 0, 0.6);
+
+}
+
+div.topHeaderText h1 {
+  margin: 5%;
+  font-weight: bold;
+  color: white;
+}
