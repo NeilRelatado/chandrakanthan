@@ -1,10 +1,21 @@
 .top-header{
 }
 
+.top-header img
+{
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    z-index:-1;
+    background-color: black
+}
+
+
+
 .topHeaderText{
   border-radius: 15px 50px 30px 5px;
   background-color: #ffffff;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(168, 50, 50, 0.6);
 
 }
 
