@@ -1,9 +1,14 @@
 .top-header{
+  background-image: url('images/carlo-alberto-burato-SMDX3gLEu_M-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 
 .top-header img
 {
-    position: absolute;
+    
     width: 100%;
     height: 50%;
     z-index:-1;
@@ -13,14 +18,20 @@
 
 
 .topHeaderText{
-  border-radius: 15px 50px 30px 5px;
-  background-color: #ffffff;
-  background: rgba(168, 50, 50, 0.6);
-
+  padding: 5em;
+  height: 5%;
+  color:white;
 }
 
 div.topHeaderText h1 {
   margin: 5%;
   font-weight: bold;
-  color: white;
+  font-size: 5em;
+  
+}
+
+.sec-head{
+  padding: 2em;
+  font-size: 50px;
+  text-align: center;
 }
