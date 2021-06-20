@@ -21,6 +21,8 @@
   padding: 15em;
   height: 5%;
   color:white;
+  text-align: center;
+
 }
 
 div.topHeaderText h1 h2 {
@@ -28,6 +30,7 @@ div.topHeaderText h1 h2 {
   padding: 5em;
   font-weight: bold;
   font-size: 5em;
+  text-align: center;
   
 }
 
